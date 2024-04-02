@@ -8,6 +8,7 @@ function Navbar() {
   return (
      
 <div className='head-head'>
+	  <h1>Gopikrishna</h1>
 
 <nav className="navbar navbar-expand-lg navbar-light  text-light mx-5">
   <div className="container-fluid">
