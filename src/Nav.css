@@ -1,0 +1,26 @@
+.head-head{
+    background-color: rgb(4, 4, 7);
+    text-align: center;
+}
+#nav-head{
+    font-size: 20px;
+    padding: 5px;
+    margin-left: 20px;
+    /* background-color: rgb(4, 4, 82); */
+}
+/* .navbar-nav{
+    margin-left: 5px;
+} */
+.nav-item{
+    margin-left: 30px;
+}
+#nav-list{
+    color: white;
+    /* padding: 5px; */
+    text-decoration: none;
+    /* padding-left: 5px; */
+}
+#nav-list:hover{
+    border-bottom: 2px solid white;
+    color: orange;
+}
